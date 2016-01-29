@@ -1,2 +1,2 @@
 # git-remote-code-along
-This lesson is to familiarize ourselves with git version control using git commands.
+This lesson is practices git version control using git commands.
