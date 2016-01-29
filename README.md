@@ -1,2 +1,2 @@
 # git-remote-code-along
-This lesson is practices git version control using git commands.
+This lesson objective is to practice git version control using git commands.
